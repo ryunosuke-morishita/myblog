@@ -1,0 +1,11 @@
+---
+title: "Welcome To My Blog"
+author: "Ryunosuke Morishita"
+date: "2026-11-12"
+categories: [news]
+image: "thumbnail.jpg"
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+In this blog, I will write about mathematics, computer, economics, and memorable events in my life! 
