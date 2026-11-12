@@ -3,7 +3,7 @@ title: "タッチタイピング習得法"
 author: "Ryunosuke Morishita"
 date: "2026-11-12"
 categories: [typing, computer, programming]
-image: "image.png"
+image: "image.jpg"
 ---
 
 # タッチタイピング習得法
