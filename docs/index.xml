@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>myblog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://ryunosuke-morishita.github.io/</link>
+<atom:link href="https://ryunosuke-morishita.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Wed, 11 Nov 2026 15:00:00 GMT</lastBuildDate>
 <item>
   <title>タッチタイピング習得法</title>
   <dc:creator>Ryunosuke Morishita</dc:creator>
-  <link>https://your-website-url.example.com/posts/typings/</link>
+  <link>https://ryunosuke-morishita.github.io/posts/typings/</link>
   <description><![CDATA[ 
 
 
@@ -41,7 +41,7 @@
 <div id="fig-touch" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-touch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://your-website-url.example.com/data/touchtyping.jpg" class="img-fluid figure-img" style="width:150.0%">
+<img src="https://ryunosuke-morishita.github.io/data/touchtyping.jpg" class="img-fluid figure-img" style="width:150.0%">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-touch-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;1: キーボードと指の割り当て（出典：<a href="https://happylilac.net/sy-keyboard03.html">ぷりんときっず</a>）
@@ -110,14 +110,14 @@ Figure&nbsp;1: キーボードと指の割り当て（出典：<a href="https://
   <category>typing</category>
   <category>computer</category>
   <category>programming</category>
-  <guid>https://your-website-url.example.com/posts/typings/</guid>
+  <guid>https://ryunosuke-morishita.github.io/posts/typings/</guid>
   <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/typings/image.png" medium="image" type="image/png" height="108" width="144"/>
+  <media:content url="https://ryunosuke-morishita.github.io/posts/typings/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Ryunosuke Morishita</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://ryunosuke-morishita.github.io/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -131,9 +131,9 @@ Figure&nbsp;1: キーボードと指の割り当て（出典：<a href="https://
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://ryunosuke-morishita.github.io/posts/welcome/</guid>
   <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://ryunosuke-morishita.github.io/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
